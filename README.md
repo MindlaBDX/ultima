@@ -1,0 +1,2 @@
+# ultima
+Ultimatum game
